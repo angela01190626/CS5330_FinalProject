@@ -1,5 +1,6 @@
 # CS5330_FinalProject
 
+Group Member: Ruochi Li, Yangjiawen Xu
 
 This GitHub repo chooses a small portion of the whole dataset and includes 8 images. 
 
